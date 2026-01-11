@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5600B2&center=true&vCenter=true&width=600&lines=Full-Stack+Development;Creative+Design;Music+Enthusiast;Creative+Change" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5600B2&center=true&vCenter=true&width=600&lines=Full-Stack+Development;Data+Science;Machine+Learning;Data+Mining;Cloud+Computing;Music+Enthusiast;Creative+Change" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -24,8 +24,8 @@
 
  In rhythm and code, I find my voice. Creating tools that resonate, from fingertips to servers.
 
-- 💼 **Currently**: Designing CeylonTopGuide, a platform connecting travelers with local expertise, while also leading the digital transformation of a regional database system.
-- 🌱 **Learning:** Deepening mastery in the MERN stack — building with intention, scaling with purpose.
+- 💼 **Currently**: Building WorldClassTravels, a modern travel agency platform focused on simplifying travel planning and delivering seamless, personalized travel experiences.
+- 🌱 **Learning:** Deepening mastery in the arts of Machine Learing, Data Mining and Artificial Inteligence.
   
 - 🎸 **Fun fact:** I play bass in a band.
 - 💡 **Philosophy:** Every challenge carries the seed of its own solution.
@@ -59,12 +59,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs&logoColor=FAFAFA" />
   <img src="https://img.shields.io/badge/Express.js-5600B2?style=for-the-badge&logo=express&logoColor=FAFAFA" />
-</p>
-
-### **Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-222222?style=for-the-badge&logo=Kotlin&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/React Native-5600B2?style=for-the-badge&logo=react&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/FastAPI-924DB1?style=for-the-badge&logo=fastapi&logoColor=FAFAFA" />
 </p>
 
 ### **Database**
@@ -73,11 +68,37 @@
   <img src="https://img.shields.io/badge/MySQL-5600B2?style=for-the-badge&logo=mysql&logoColor=FAFAFA" />
 </p>
 
-### **Developer Tools**
+### **Machine Learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/VS_Code-5600B2?style=for-the-badge&logo=visual-studio-code&logoColor=FAFAFA" />
-  <img src="https://img.shields.io/badge/Postman-924DB1?style=for-the-badge&logo=postman&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Pandas-222222?style=for-the-badge&logo=pandas&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/NumPy-5600B2?style=for-the-badge&logo=numpy&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Matplotlib-924DB1?style=for-the-badge&logo=plotly&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/scikit--learn-222222?style=for-the-badge&logo=scikitlearn&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Pydantic-5600B2?style=for-the-badge&logo=pydantic&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/PyTorch-924DB1?style=for-the-badge&logo=pytorch&logoColor=FAFAFA" />
+</p>
+
+## **Cloud Computing & Big Data Processing**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-222222?style=for-the-badge&logo=microsoftazure&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-5600B2?style=for-the-badge&logo=amazonaws&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-924DB1?style=for-the-badge&logo=apachehadoop&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-222222?style=for-the-badge&logo=apachehive&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HSQLDB-5600B2?style=for-the-badge&logo=databricks&logoColor=FAFAFA" />
+
+</p>+
+
+### **Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-222222?style=for-the-badge&logo=Kotlin&logoColor=FAFAFA" />
+</p>
+
+### **Dockerization & Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-222222?style=for-the-badge&logo=docker&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Git-5600B2?style=for-the-badge&logo=git&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/VS_Code-924DB1?style=for-the-badge&logo=visual-studio-code&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Postman-222222?style=for-the-badge&logo=postman&logoColor=FAFAFA" />
 </p>
 
 ### **Designer Tools**
@@ -85,6 +106,9 @@
   <img src="https://img.shields.io/badge/Photoshop-222222?style=for-the-badge&logo=Photoshop&logoColor=FAFAFA" />
   <img src="https://img.shields.io/badge/Illustrator-5600B2?style=for-the-badge&logo=Illustrator&logoColor=FAFAFA" />
   <img src="https://img.shields.io/badge/Figma-924DB1?style=for-the-badge&logo=figma&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-222222?style=for-the-badge&logo=adobepremierepro&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/TouchDesigner-5600B2?style=for-the-badge&logo=touchdesigner&logoColor=FAFAFA" />
+  
 </p>
 
 ---
@@ -113,11 +137,9 @@
 
 ```javascript
 const currentlyLearning = {
-    frontend: ["React", "Advanced JavaScript", "CSS Grid & Flexbox",],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Git", "VS Code", "Postman"],
-    nextGoals: ["MatLab", "Balarina"]
+    backend: ["Springboot", "Flask"],
+    tools: ["TouchDesigner"],
+    nextGoals: ["Advanced CNNs", "Advanced Massive Data Processing"]
 };
 
 const motivation = "In the silence between keystrokes, creation begins.";
@@ -131,9 +153,9 @@ const motivation = "In the silence between keystrokes, creation begins.";
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| **Cuisinise** | A multi-service, agentic food exploration platform that helps users discover restaurants, analyze menus, classify cuisines, and receive AI-powered recipe recommendations. | React, Node.js, Express, FastAPI, Python, MongoDB, LLMs |
+| **RainCheckAUS** | A full-stack machine learning application that predicts the likelihood of rain in Australian cities using trained classification models and a microservice-based architecture. | React, Node.js, Express, FastAPI, Python, Docker, ML |
 | **CeylonTopGuide** | A tour guide management platform designed to connect travelers with verified local guides, enhancing tourism experiences in Sri Lanka. | MERN Stack |
-| **AquaFiles** | A secure digital document and connection management system being developed for a government organization to streamline data entry and retrieval. | MERN Stack |
-| **Sojourn Parking** | An online parking reservation and management platform under development for a private company, aimed at optimizing space allocation and user accessibility. | MERN Stack |
 
 </div>
 
@@ -148,7 +170,7 @@ const motivation = "In the silence between keystrokes, creation begins.";
 ## 🤝 Contact Me
 
 <div align="center">
-  <a href="https://https://www.linkedin.com/in/heshal-dissanayake-193760372/" target="_blank">
+  <a href="https://www.linkedin.com/in/heshal-dissanayake/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" />
   </a>
   <a href="https://instagram.com/heshal._" target="_blank">
